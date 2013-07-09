@@ -1,3 +1,4 @@
+Het is een zonnige dag
 paint = {}
 paint.loopmax=50
 paint.loops=0
